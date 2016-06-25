@@ -1,0 +1,14 @@
+{
+  "name": "jack-cat-picture",
+  "version": "1.0.0",
+  "description": "Jack's cat-picture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cat-picture": "^5.1.2"
+  }
+}
