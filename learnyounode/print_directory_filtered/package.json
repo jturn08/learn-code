@@ -1,0 +1,11 @@
+{
+  "name": "print_directory_filtered",
+  "version": "1.0.0",
+  "description": "NodeSchool learnyounode tutorial exercise 6 - create node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
